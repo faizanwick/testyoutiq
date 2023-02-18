@@ -1,0 +1,27 @@
+body{
+	background: linear-gradient(#753a88,#343fe0);
+	color: white;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: Roboto Mono;
+	text-align: center;
+}
+.test{
+	border: 2px solid;
+	width: 1300px;
+	text-align: center;
+	margin: auto;
+}
+button{
+	margin-top: 15px;
+	border: none;
+	border-radius: 5px;
+	border-color: white;
+	font-size: 20px;
+	color: white;
+	background-color: #ce79db;
+}
+button:hover{
+	background-color: #b320c9;
+}
